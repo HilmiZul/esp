@@ -15,7 +15,7 @@
               <label for="instansi">PILIH INSTANSI</label>
               <select name="id_ins" class="form-control selectpicker" data-live-search="true" id="instansi">
                 {% for ins in instansi %}
-                  <option value="{{ ins.id }}">{{ ins.nama }}</option>
+                  <option value="{{ ins.id }}">{{ forloop.counter }} | {{ ins.nama }}</option>
                 {% endfor %}
               </select>
             </div>
