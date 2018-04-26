@@ -1,5 +1,5 @@
 # About
-Template surat permohonan Praktik Kerja Industri (PRAKERIN)
+Template surat permohonan Praktik Kerja Lapangan. 
 
 # Requirement
 * Python 2.7.x
