@@ -7,3 +7,4 @@ Template surat permohonan Praktik Kerja Lapangan.
 
 ### Migration
 * makemigrations && migrate
+* create su
