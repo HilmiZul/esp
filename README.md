@@ -5,6 +5,6 @@ Template surat permohonan Praktik Kerja Lapangan.
 * Python 2.7.x
 * Django 1.10
 
-### Migration
+# Setup
 * makemigrations && migrate
 * create su
