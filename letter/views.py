@@ -21,3 +21,9 @@ def form_cetak(request):
     else:
         result = redirect('/')
     return result
+
+
+# LAPORAN PERMOHONAN PKL
+def laporan_permohonan(request):
+    permohonan = Permohonan.objects.all().order_by('nama_instansi')
+    return render(request, 'laporan.html', {'permohonans':permohonan})
