@@ -23,5 +23,6 @@ urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^$', letter_view.form_letter),
     url(r'^cetak/', letter_view.form_cetak),
+    url(r'^laporan/', letter_view.laporan_permohonan),
 
 ]
