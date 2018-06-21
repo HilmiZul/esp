@@ -6,7 +6,7 @@ Template surat permohonan Praktik Kerja Lapangan.
 * Django 1.10.x, 1.11.x
 
 # Setup
-* Download https://gitlab.com/HilmiZul/esp/-/archive/master/esp-master.zip
+* Download [esp-master.zip](https://github.com/HilmiZul/esp/archive/master.zip) 
 * Extract. Open Terminal.
 * ```cd esp/```
 * ```./manage.py makemigrations && ./manage.py migrate```
