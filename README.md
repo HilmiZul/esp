@@ -3,7 +3,7 @@ Template surat permohonan Praktik Kerja Lapangan.
 
 # Requirement
 * Python 2.7.x
-* Django 1.10.x, 1.11.x
+* Django 1.10.x or 1.11.x
 
 # Setup
 * Download [esp-master.zip](https://github.com/HilmiZul/esp/archive/master.zip) 
